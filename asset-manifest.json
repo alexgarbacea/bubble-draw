@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bubble-draw/static/css/main.9dd235d5.css",
+    "main.js": "/bubble-draw/static/js/main.0ee90bac.js",
+    "static/js/787.18f46335.chunk.js": "/bubble-draw/static/js/787.18f46335.chunk.js",
+    "index.html": "/bubble-draw/index.html",
+    "main.9dd235d5.css.map": "/bubble-draw/static/css/main.9dd235d5.css.map",
+    "main.0ee90bac.js.map": "/bubble-draw/static/js/main.0ee90bac.js.map",
+    "787.18f46335.chunk.js.map": "/bubble-draw/static/js/787.18f46335.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dd235d5.css",
+    "static/js/main.0ee90bac.js"
+  ]
+}
